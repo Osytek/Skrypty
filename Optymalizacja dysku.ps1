@@ -1,0 +1,1 @@
+﻿Optimize-Volume -DriveLetter C
